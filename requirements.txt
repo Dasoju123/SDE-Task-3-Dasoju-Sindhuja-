@@ -1,0 +1,6 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+numpy==1.26.2
+python-dotenv==1.0.0
+# Optional (better embeddings). If you want real embeddings, install this:
+sentence-transformers==2.2.2
